@@ -5,6 +5,9 @@ Blog de prendizaje de Git y GitHub
 
 > - A estudiar
 
+## Este curso hemos cosas como:
+* comandos necesarios para el desarrollo de Git y GitHub
+
 para ingresar al curso ve a: [Curso de Git y GitHub](https://platzi.com)
 
 En este curso hemos aprendido de todo de como manenar Git como GitHub
