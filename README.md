@@ -7,6 +7,8 @@ Blog de prendizaje de Git y GitHub
 
 ## Este curso hemos cosas como:
 * comandos necesarios para el desarrollo de Git y GitHub
+* comandos como git pull para traer y git push para enviar 
+* Y esta disponible para todoas las edades
 
 para ingresar al curso ve a: [Curso de Git y GitHub](https://platzi.com)
 
